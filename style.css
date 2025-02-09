@@ -19,11 +19,15 @@ nav a:hover{
 }
 
 header{
-  margin-bottom: 50;
+  margin-bottom: 50px;
 }
 footer{
-  margin-top: 50;
+  margin-top: 50px;
 }
 .social {
   margin: 10px;
+}
+.text-big {
+  font-size: 30px;
+
 }
